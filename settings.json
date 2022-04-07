@@ -1,0 +1,10 @@
+{
+    "name": "TestDapp",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none"
+    }
+}
